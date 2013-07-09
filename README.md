@@ -44,6 +44,4 @@ A3. You messed up somehow. Make sure you have installed [Homebrew](http://mxcl.g
 Mirrors
 ------------
 
-This Git repo is avaliable on [GitHub](https://github.com/angelXwind/Cydia-Installer) (main) and [BitBucket](https://bitbucket.org/angelXwind/Cydia-Installer) (mirror).
-
-It was originally cloned from [git://git.saurik.com/cydia.git](git://git.saurik.com/cydia.git) , which is Saurik's own Git repo. Web UI is avaliable here: [http://gitweb.saurik.com/cydia.git](http://gitweb.saurik.com/cydia.git) .
+This Git repo was originally cloned from [git://git.saurik.com/cydia.git](git://git.saurik.com/cydia.git) , which is Saurik's own Git repo. Web UI is avaliable here: [http://gitweb.saurik.com/cydia.git](http://gitweb.saurik.com/cydia.git) .
